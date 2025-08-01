@@ -1,8 +1,5 @@
-#
 #title: "Riding Towards Membership: Analyzing Rider Behavior at Cyclistic Bike-Share"
 #author: "Julie Favreau"
-#date: "`r format(Sys.time(), '%B %d, %Y')`"
-
 
 ##Scenario:
 #I'm a data analyst working in the marketing analytics team at a company
@@ -17,7 +14,6 @@
 # Lily Moreno: The Director of Marketing and my manager.
 # Cyclistic Marketing Analytics Team: My team of Data Analysts.
 # Cyclistic Executive Team: The detail-oriented executive team.
-
 
 ##About Cyclistic/ Key Points:
 
