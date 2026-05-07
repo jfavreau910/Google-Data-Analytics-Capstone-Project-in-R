@@ -1,6 +1,8 @@
 # Full Stack Google Data Analytics Capstone Project in R
 Riding Towards Membership: A Cyclistic Bike-Share Analysis Case Study
 
+Below are my project's Findings and Recommendations. The complete thought process and workflow is included within the code page.
+
 
 Findings/Recommendations:
 
