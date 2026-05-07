@@ -509,17 +509,6 @@ trips_new2 %>%
 #I recommended launching promotions via Social Media such as: Instagram and Facebook. Cyclistic can also use casual member's existing user information on file to reach out to casual members via text and email promotions. 
 #I recommended launching physical promotional materials at the top 10 most frequented stations by current casual members. These stations will receive the most casual rider traffic.
 
-#######################################TABLEAU###################################
-##SAVING WORKGo
-##Exported My Data
-
-##download the new data as a .csv file to use in Tableau dashboard. 
-##Data table is already cleaned and has necessary columns included.
-
-trips_tableau <- trips_new2
-
-##download the new data as a .csv file
-write.csv(trips_tableau, "trips_new2.csv")
 
 
 
