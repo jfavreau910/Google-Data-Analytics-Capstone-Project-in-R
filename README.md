@@ -7,7 +7,7 @@ In order to do that, the marketing analyst team needs to understand how: annual 
 
 Below are my project's final Findings and Recommendations. (The complete thought process and workflow is included within the code page.) The data size is approximately 3.5 million lines, so I elected to use R.
 
-#Findings/Recommendations:
+## Findings/Recommendations:
 
 Casual Rider engagement during the winter is much lower than Member Riders, and winter ridership overall is low. 
 This is most likely due to being located in Chicago, which experiences severe winter weather.
