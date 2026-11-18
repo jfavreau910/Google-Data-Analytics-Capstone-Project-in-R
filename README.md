@@ -1,14 +1,13 @@
 # Full Stack Google Data Analytics Capstone Project in R
 Riding Towards Membership: A Cyclistic Bike-Share Analysis Case Study
 
-Project Goal: Design marketing strategies aimed at converting casual riders into annual members. 
-In order to do that, the marketing analyst team needs to understand how: annual members 
-and casual riders differ, why casual riders would buy a membership, and how
-digital media could affect their marketing tactics.
+#Project Goal: 
+Design marketing strategies aimed at converting casual riders into annual members. 
+In order to do that, the marketing analyst team needs to understand how: annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 
 Below are my project's final Findings and Recommendations. (The complete thought process and workflow is included within the code page.) The data size is approximately 3.5 million lines, so I elected to use R.
 
-Findings/Recommendations:
+#Findings/Recommendations:
 
 Casual Rider engagement during the winter is much lower than Member Riders, and winter ridership overall is low. 
 This is most likely due to being located in Chicago, which experiences severe winter weather.
